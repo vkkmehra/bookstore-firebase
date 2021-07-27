@@ -3,10 +3,10 @@
 This is a book store project with very basic functionality. No login and registration is implemented yet. Admin panel can be done separately but here it is in the same app.
 
 ## Tools used
-React 17.0.2
-bootstrap 4
-firebase 8.8.0
-mailgun.js 3.5.2
+1. React 17.0.2
+2. bootstrap 4
+3. firebase 8.8.0
+4. mailgun.js 3.5.2
 
 ### App Components
 
