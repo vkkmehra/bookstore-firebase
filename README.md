@@ -15,3 +15,7 @@ This is a book store project with very basic functionality. No login and registr
 3. checkout - Displays order details from the cart and also checkout form to fill customer detail specially email. 
 4. Admin - Through Admin page books can be listed, added, edited or deleted. Also an order report which shows all the orders in the db.
 5. Order - Displays all the orders in the db.
+
+### Note
+Only 1 recipient is configured in mailgun so emails go to only vivek.mehra1@gmail.com and the example email which is sent after submitting order
+![image](https://user-images.githubusercontent.com/23531496/127099820-31665e11-318a-408f-8942-f6b7dae3748d.png)
